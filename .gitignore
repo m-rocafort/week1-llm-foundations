@@ -1,6 +1,10 @@
 # Secrets — NEVER commit
 .env
 
+# Kept local only, not tracked on GitHub (per your choice)
+README.md
+.env.example
+
 # Python
 .venv/
 venv/
