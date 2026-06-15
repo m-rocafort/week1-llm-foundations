@@ -2,8 +2,7 @@
 .env
 
 # Kept local only, not tracked on GitHub (per your choice)
-README.md
-.env.example
+env.example
 
 # Python
 .venv/
